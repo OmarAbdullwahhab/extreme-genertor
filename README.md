@@ -8,7 +8,7 @@ freemarker is used to define the template to be generated, yaml is used to defin
     - knowledge of YAML https://yaml.org/
     
 # Usage
-    - compile the code with maven
+    - compile the code with maven : mvn compile
     - run the code to see the usage message.
     - copy the resource/example directory somewhere
     - run again and pass the arguments as follows.
