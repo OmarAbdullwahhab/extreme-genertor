@@ -1,0 +1,18 @@
+action: /contorls
+method: POST
+controls:
+  control1:
+    label: Email
+    type: text
+    name: username
+    class: form-control py-4
+  control2:
+    label: Password
+    type: password
+    name: password
+    class: form-control py-4
+  control3:
+    label: Remember Me!
+    type: check
+    name: rememberMe
+    class: form-control
