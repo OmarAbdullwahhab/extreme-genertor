@@ -1,5 +1,5 @@
 # extreme-genertor
-A very simple, yet very powerfull any code,text,...etc generator based of free maker template engine.
+A very simple, yet very powerfull any code,text,...etc generator based on free maker template engine.
 it uses the apache freemarker template engine and the yaml.
 freemarker is used to define the template to be generated, yaml is used to define the model for that template.
 
